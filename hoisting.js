@@ -30,3 +30,4 @@ function sayMyName() {
     var name = "Kristin";
   }
 }
+sayMyName();

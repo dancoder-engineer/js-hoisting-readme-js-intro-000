@@ -29,4 +29,4 @@ function sayMyName() {
     var name = "Kristin";
   }
 }
-console.log(callMe())
+crazy()

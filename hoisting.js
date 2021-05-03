@@ -30,4 +30,4 @@ function sayMyName() {
     var name = "Kristin";
   }
 }
-crazy()
+var a = crazy()
